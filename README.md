@@ -1,1 +1,2 @@
-# SGPA_Calculator_5th-sem
+# SGPA-Third-Sem
+SGPA calculator for third semester students in CU

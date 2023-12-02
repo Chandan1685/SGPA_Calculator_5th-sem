@@ -1,0 +1,89 @@
+.gradebox {
+    font-size: 27px;
+    padding: 15px;
+    font-family:cursive;
+    color: white;
+    background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20200731/pngtree-blue-carbon-background-with-sport-style-and-golden-light-image_371487.jpg");
+}
+.clicked {
+  font-size: 25px;   
+  color: aqua;
+}
+.form-select {
+    margin-left: 100px;
+    padding:30px;
+    background-color: #66BFBF;
+    font-size: 20px;
+    font-family: cursive;
+    background-image:url("C:\Users\HP\Desktop\FLDR\WEBDD\CGPA\images\download.png");
+}
+.btn-group button {
+  background-color: #ef3a40; /* Green background */
+  font-family: cursive;
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  margin-left: 30px;
+  padding: 20px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: right;/* Float the buttons side by side*/
+  border-radius: 20%;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: hsla(0, 0%, 99%, 0.537);
+}
+h2{
+  margin-top: 0px;
+  font-family: cursive;
+  text-align: center;
+  font-size: 60px;
+  color: rgb(51, 53, 23);
+  font-weight: 600;
+  visibility: none;
+}
+h1 {
+    margin-top: 0px;
+    margin: 0 0 0 10;
+    padding:20rem;
+    font-family: cursive;
+    text-align: center;
+    font-size: 60px;
+    color: aqua;
+    font-weight: 600;
+    background-image:url("https://media.istockphoto.com/id/952039286/photo/abstract-background-wallpaper.jpg?s=170667a&w=0&k=20&c=0cZHtsWQVwVllZt0gCd1apfTZs7eBE6zrmnCz8fZkEA=");
+    /* color: transparent; */
+  }
+
+  .button-32 {
+    align-items: center;
+    margin-top: 100px;
+    padding: 3rem;
+    background-color: #ebdc09;
+    border-radius: 30px;
+    color: #000;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    transition: 200ms;
+    width: 100%;
+    box-sizing: border-box;
+    border: 0;
+    font-family: cursive;
+    font-size: 40px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
